@@ -1,1 +1,8 @@
-
+spring:
+  main:
+    banner-mode: 'off'
+  application:
+    name: mytoolset
+logging:
+  level:
+    root: WARN
